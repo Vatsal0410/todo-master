@@ -71,11 +71,11 @@ npm run dev
 ```
 
 ## 🌐 Live Demo
-👉 https://todo-master.com
+👉 https://todo-master-steel.vercel.app/
 
 ---
 
 ## 📌 Author
 
-[Vatsal](https://github.com/Vatsal0410)
+[Vatsal Patel](https://github.com/Vatsal0410)
 React Developer

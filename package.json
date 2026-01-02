@@ -1,7 +1,15 @@
 {
-  "name": "todo-app",
+  "name": "todo-master",
+  "description": "A todo app built with Vite + React + TypeScript",
+  "keywords": [
+    "react",
+    "typescript",
+    "tailwindcss",
+    "vite",
+    "todo"
+  ],
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
