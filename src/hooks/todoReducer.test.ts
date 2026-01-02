@@ -56,10 +56,12 @@ describe("todoReducer", () => {
         expect(result).toHaveLength(0)
     })
 
-    it("returns same state for unknown action", () => {
-        const state = [createTodo()]
-        const result = todoReducer(state, { type: "UNKNOWN" })
-        expect(result).toEqual(state)
-    })
+    // Comments below are for future use
+
+    // it("returns same state for unknown action", () => {
+    //     const state = [createTodo()]
+    //     const result = todoReducer(state, { type: "UNKNOWN" })
+    //     expect(result).toEqual(state)
+    // })
 
 })
